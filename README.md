@@ -32,6 +32,7 @@ Dedicated tools for novel and book writing.
 - [bibisco](https://bibisco.com/) - Character-focused writing tool.
 - [novelWriter](https://novelwriter.io/) - Open-source plain text editor for novels.
 - [Wavemaker](https://wavemaker.co.uk/) - Free writing app with mind maps and timelines.
+- [AI eBook Pro](https://aiebookpro.com/) - AI book writer that turns one sentence into a full eBook with chapters, a cover and PDF, EPUB and DOCX export.
 
 ## Manga & Webtoon Creators
 
